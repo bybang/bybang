@@ -34,7 +34,11 @@
 
   - 📫 How to reach me **joshuabang26@gmail.com**
 
-  - 📄 Know about my experiences [https://large-quasar-8bc.notion.site/Joshua-Bang-3dc694403f9e413a9948e14d7b2c007d?pvs=25](https://large-quasar-8bc.notion.site/Joshua-Bang-3dc694403f9e413a9948e14d7b2c007d?pvs=25)
+  - 📄 Know about my experiences
+
+    KOR - [Notion](https://large-quasar-8bc.notion.site/Joshua-Bang-3dc694403f9e413a9948e14d7b2c007d?pvs=25)
+
+    ENG - [Resume.io](https://resume.creddle.io/resume/au2d71w8qm5)
 
   - ⚡ Fun fact **I’m a big fan of Premier League and FM**
     
@@ -55,6 +59,17 @@
   ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   
   #### Other tools:
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![tailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   
 </div>
 
