@@ -16,6 +16,7 @@
   
   [![Linkedin: joshbang](https://img.shields.io/badge/-JoshBang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshbang/)](https://www.linkedin.com/in/joshbang/)
   [![GitHub bybang](https://img.shields.io/github/followers/bybang?label=follow&style=social)](https://github.com/bybang)
+  ![Gihub stars](https://img.shields.io/github/stars/bybang?style=social)
 </div>
 
 <div><br/></div>
