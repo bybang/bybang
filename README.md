@@ -37,7 +37,7 @@
 
   - 📄 Know about my experiences
 
-    KOR - [Notion](https://large-quasar-8bc.notion.site/Joshua-Bang-3dc694403f9e413a9948e14d7b2c007d?pvs=25)
+    KOR - [Notion](https://joshbang.notion.site/joshbang/Joshua-Bang-5718cc852af145779dbcfd04ffaa8a58)
 
     ENG - [Resume.io](https://resume.creddle.io/resume/au2d71w8qm5)
 
@@ -71,6 +71,10 @@
   ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+  ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+  ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  
   
 </div>
 
