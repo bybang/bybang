@@ -39,7 +39,7 @@
 
     KOR - [Notion](https://joshbang.notion.site/joshbang/Joshua-Bang-5718cc852af145779dbcfd04ffaa8a58)
 
-    ENG - [Resume](https://resume.io/r/zsG9jxc0e)
+    ENG - [Resume](https://resume.creddle.io/resume/au2d71w8qm5)
 
   - ⚡ Fun fact **I’m a big fan of Premier League and FM**
     
