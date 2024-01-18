@@ -29,7 +29,7 @@
 
   - 👨‍💻 All of my projects are available at [https://portfolio-orpin-eight-15.vercel.app/](https://portfolio-orpin-eight-15.vercel.app/)
 
-  - 📝 I regularly write articles on [https://velog.io/@devbang](https://velog.io/@devbang)
+  - 📝 I regularly write articles on my [blog](https://bybang.github.io/) or [https://velog.io/@devbang](https://velog.io/@devbang)
 
   - 💬 Ask me about **React, Next.js**
 
