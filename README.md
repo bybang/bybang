@@ -37,7 +37,7 @@
 
   - 📄 Know about my experiences
 
-    ENG - [Resume](https://resume.creddle.io/resume/au2d71w8qm5)
+    ENG - [Resume](https://joshbang.notion.site/Joshua-Bang-Resume-1be8272fd7c780a794a1cc7e050724aa?pvs=4)
 
   - ⚡ Fun fact **I’m a big fan of Premier League and FM**
     
